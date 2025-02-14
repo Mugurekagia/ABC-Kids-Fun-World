@@ -1,0 +1,41 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+body{
+   background:orangered ; 
+}
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10%;
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: centre;
+    padding: 10px 3%;
+}
+.logo{
+    font-size: 32px;
+    font-weight: 700;
+    color: blue;
+    margin-left:-20px ;
+}
+.navbar{
+    margin-right: 230px;
+}
+.navbar a{
+    font-size: 20px; 
+    color: black;
+    font-weight: 400;
+    margin-left: 35px;
+}
+.navbar a:hover{
+    color: blue;
+    transform: translate(-3px);   
+}
+
+
+
