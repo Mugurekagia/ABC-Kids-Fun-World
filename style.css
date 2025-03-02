@@ -78,5 +78,10 @@ footer{
     text-align: centre;
     padding: 10px;
     background-color: #fce4ec;
+}
+.contact-container{
+    background-color: pink;
+    margin: 20px;
+    
 
 }
