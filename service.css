@@ -1,0 +1,43 @@
+.service-container{
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 900px
+}
+.service-card{
+    background-color: orangered;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 20px;
+    text-align: centre;
+}
+.service-card img{
+    max-width: 150px;
+    margin-right: 20px;
+    border-radius: 8px;
+   
+
+}
+.service-card h2{
+    color: black;
+    margin-bottom: 10px;
+}
+.service-card p{
+    color: black;
+    margin-bottom: 20px;
+}
+.image-grid{
+    display: flex;
+    justify-content: centre;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.image-grid img{
+    max-width: 250px;
+    height: 300px;
+    border-radius: 8px;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #fce4ec;
+}
